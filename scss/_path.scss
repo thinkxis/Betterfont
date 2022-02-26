@@ -1,0 +1,15 @@
+/* FONT PATH
+ * -------------------------- */
+
+@font-face {
+  font-family: 'BetterFont';
+  src: url('#{$bf-font-path}/bf.eot?v=#{$bf-version}');
+  src: url('#{$bf-font-path}/bf.eot?#iefix&v=#{$bf-version}') format('embedded-opentype'),
+    url('#{$bf-font-path}/bf.woff2?v=#{$bf-version}') format('woff2'),
+    url('#{$bf-font-path}/bf.woff?v=#{$bf-version}') format('woff'),
+    url('#{$bf-font-path}/bf.ttf?v=#{$bf-version}') format('truetype'),
+    url('#{$bf-font-path}/bf.svg?v=#{$bf-version}#betterfontregular') format('svg');
+//  src: url('#{$bf-font-path}/bf.otf') format('opentype'); // used when developing fonts
+  font-weight: normal;
+  font-style: normal;
+}

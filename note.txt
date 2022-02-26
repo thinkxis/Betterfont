@@ -1,0 +1,8 @@
+Better Font for best developers
+
+open index file with any editior, (eg: notepad++)
+import css stylesheet between the head of html located in bf/css folder
+for more information check out betterfont.com/features
+
+Copyrights - BetterFont.com by Dipesh VB
+License - betterfont.com/license
